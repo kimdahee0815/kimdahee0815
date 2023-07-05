@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdahee0815&show_icons=true&theme=prussian)
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=000000"/></a>
