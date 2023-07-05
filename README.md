@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=000000"/></a>
