@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/00AFFF?style=for-the-badge&logo=archiveofourown&logoColor=00AFFF"/></a>
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdahee0815&show_icons=true&theme=prussian)
