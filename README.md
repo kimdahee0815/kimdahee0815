@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kimdahee0815/kimdahee0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdahee0815&show_icons=true&theme=prussian)
-
+-->
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dahee Kim
@@ -54,7 +53,7 @@ Also, <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams�
 ## Back-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=000000"/></a>
