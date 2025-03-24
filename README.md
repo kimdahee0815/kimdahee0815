@@ -17,18 +17,7 @@ Here are some ideas to get you started:
 
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdahee0815&show_icons=true&theme=prussian)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=000000"/></a>
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=000000"/></a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dahee Kim
 =================================================================================================================================
@@ -36,14 +25,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-Also, Code alchemist✨ transforming caffeine☕into digital dreams💫 turning bugs🐞 into features🎁and　　　 life's challenges🤺into elegant magic🔮
+Also, Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 <br/>turning bugs🐞 into features🎁and <br/>life's challenges🤺into elegant magic🔮
 
 * 🌍  I'm based in Incheon, South Korea
 * ✉️  You can contact me at [kimdahee0815@gmail.com](mailto:kimdahee0815@gmail.com)
 * 🚀  I'm currently working on [ThinkStorm Project](http://thinkstorm.app/)
 * 🧠  I'm learning Next.Js, Nest.Js, DevOps, System Design currently
 * 🤝  I'm open to collaborating on any interesting and challenging projects!
-* ⚡  Don't tell anyone this… but my best debugging tool is the search bar
+* ⚡  Don't tell anyone this… but my best debugging tool is the search bar💡🙄
 
 ### Skills
 
