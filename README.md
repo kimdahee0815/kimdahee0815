@@ -24,7 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-Also, <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 <br/>turning bugs🐞 into features🎁and <br/>life's challenges🤺into elegant magic🔮
+And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 <br/>turning bugs🐞 into features🎁and <br/>life's challenges🤺into elegant magic🔮
 
 * 🌍  I'm based in Incheon, South Korea
 * ✉️  You can contact me at [kimdahee0815@gmail.com](mailto:kimdahee0815@gmail.com)
