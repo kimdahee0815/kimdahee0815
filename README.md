@@ -42,7 +42,7 @@ Also, <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams�
 <br/>
 ## Front-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=000000"/></a>
@@ -53,11 +53,10 @@ Also, <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams�
 <br/>
 ## Back-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
