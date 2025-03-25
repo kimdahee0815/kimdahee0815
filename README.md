@@ -37,7 +37,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 ### Programming Languages
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg?style=for-the-badge&logo=Java&logoColor=000000" width="36" height="36"/></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg?style=for-the-badge&logo=Java&logoColor=000000" width="36" height="36"/><img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=000000"/></a>
 <br/>
 ### Front-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
@@ -84,6 +84,9 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/eleventy-222222?style=for-the-badge&logo=eleventy&logoColor=ffffff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000"/></a>
 <br/>
 ### VCS
 <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000"/></a>
