@@ -37,7 +37,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 ### Programming Languages
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg?style=for-the-badge&logo=Java&logoColor=000000"/></a>
 <br/>
 ### Front-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
@@ -71,6 +71,11 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=000000"/></a>
 <br/>
+### Template-Engine
+<a href="" target="_blank"><img src="https://img.shields.io/badge/nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JSP-A86454?style=for-the-badge&logo=JSP&logoColor=000000"/></a>
+<br/>
 ### Cloud & DevOps
 <a href="" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff"/></a>
@@ -85,7 +90,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=000000"/></a>
 <br/>
 ### Code Editors & IDEs
-<a href="" target="_blank"><img src="https://img.shields.io/badge/vsCode-0078d7?style=for-the-badge&logo=vsCode&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg?style=for-the-badge&logo=vsCode&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/></a>
 <!--
 <p align="left">
