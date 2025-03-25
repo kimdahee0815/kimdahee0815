@@ -56,6 +56,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=000000"/></a>
@@ -74,14 +75,11 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/myBatis-ff0000?style=for-the-badge&logo=myBatis&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/springDataJPA-6DB33F?style=for-the-badge&logo=springDataJPA&logoColor=000000"/></a>
-<br/>
-### Template-Engine
-<a href="" target="_blank"><img src="https://img.shields.io/badge/nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/myBatis-ff0000?style=for-the-badge&logo=myBatis&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JSP-ff4d00?style=for-the-badge&logo=JSP&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=000000"/></a>
 <br/>
 ### Cloud & DevOps
 <a href="" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=000000"/></a>
