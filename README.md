@@ -51,6 +51,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=scss&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/></a>
