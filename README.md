@@ -32,6 +32,9 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 * 🧠  I'm learning Next.Js, Nest.Js, DevOps, System Design currently
 * 🤝  I'm open to collaborating on any interesting and challenging projects!
 * ⚡  Don't tell anyone this… but my best debugging tool is the search bar💡🙄
+* 🤯  I de-stress from coding with swimming🏊‍♂️, Zumba💃🏻, and attending modeling classes👠 for fun
+* 📚  Been in a book club for years—basically living in stories and writing my own
+* 🗣️  Learning Spanish because one language (or programming language) just wasn’t enough
 
 ## Skills
 ### Programming Languages
