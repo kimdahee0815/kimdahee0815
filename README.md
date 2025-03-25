@@ -33,13 +33,13 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 * 🤝  I'm open to collaborating on any interesting and challenging projects!
 * ⚡  Don't tell anyone this… but my best debugging tool is the search bar💡🙄
 
-# Skills
-## Programming Languages
+## Skills
+### Programming Languages
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=000000"/></a>
 <br/>
-## Front-End
+### Front-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=000000"/></a>
@@ -55,10 +55,10 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=000000"/></a>
 <br/>
-## UI/UX
+### UI/UX
 <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=000000"/></a>
 <br/>
-## Back-End
+### Back-End
 <a href="" target="_blank"><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff"/></a>
@@ -71,7 +71,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=000000"/></a>
 <br/>
-## Cloud & DevOps
+### Cloud & DevOps
 <a href="" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fly.io-24175B?style=for-the-badge&logo=fly.io&logoColor=ffffff"/></a>
@@ -80,11 +80,11 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/eleventy-222222?style=for-the-badge&logo=eleventy&logoColor=ffffff"/></a>
 <br/>
-## VCS
+### VCS
 <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=000000"/></a>
 <br/>
-## Code Editors & IDEs
+### Code Editors & IDEs
 <a href="" target="_blank"><img src="https://img.shields.io/badge/vsCode-0078d7?style=for-the-badge&logo=vsCode&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/></a>
 <!--
