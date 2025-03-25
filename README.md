@@ -33,7 +33,7 @@ And <br/>Code alchemist✨ <br/>transforming caffeine☕into digital dreams💫 
 * 🤝  I'm open to collaborating on any interesting and challenging projects!
 * ⚡  Don't tell anyone this… but my best debugging tool is the search bar💡🙄
 
-### Skills
+# Skills
 ## Programming Languages
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000000"/></a>
