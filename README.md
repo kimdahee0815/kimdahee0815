@@ -66,7 +66,7 @@ Full-Stack Developer
 <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
