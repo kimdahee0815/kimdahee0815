@@ -30,7 +30,7 @@ Full-Stack Developer
 * 🤝  I'm open to collaborating on any interesting and challenging projects!
 * ⚡  Don't tell anyone this… but my best debugging tool is the search bar💡🙄
 * 🤯  I de-stress from coding with swimming🏊‍♂️, Zumba💃🏻, and attending modeling classes👠 for fun
-* 📚  Been in a book club for years—basically living in stories and writing my own
+* 📚  Been in a book club for years - basically living in stories and writing my own
 * 🗣️  Learning Spanish<img src="https://github.com/user-attachments/assets/35cceb7a-ff62-4eba-a3d3-5893c2afa17c" width=15 height=15 />
  because one language (or programming language) just wasn’t enough
 
